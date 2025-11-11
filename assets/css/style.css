@@ -51,6 +51,10 @@ p {
 figure {
     text-align: center;
 }
+img {
+    max-width: 80%;
+    height: auto;
+}
 footer p {
     font-size: 0.8rem;
     color: #555555;
