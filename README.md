@@ -15,7 +15,7 @@
 
 <h2><strong>Demonstração do Projeto</strong></h2>
 <p align="center">
-  <img src="assets/preview.png" alt="Visual do projeto Wikipedia New Layout">
+  <img src="assets/images/wikipedia-preview.png" alt="Visual do projeto Wikipedia New Layout" width="60%">
   <br>
   <a href="https://williandpg.github.io/wikipedia-new-layout/" target="_blank"><strong>Acesse a demonstração</strong></a>
 </p>
@@ -80,7 +80,7 @@
 
   <h2><strong>Project Demonstration</strong></h2>
   <p align="center">
-    <img src="assets/preview.png" alt="Wikipedia New Layout project view">
+    <img src="assets/images/wikipedia-preview.png" alt="Wikipedia New Layout project view" width="60%">
     <br>
     <a href="https://williandpg.github.io/wikipedia-new-layout/" target="_blank"><strong>Access the demonstration</strong></a>
   </p>
