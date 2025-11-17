@@ -1,0 +1,12 @@
+{
+  "name": "wikipedia-new-layout",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://williandpg.github.io/wikipedia-new-layout/",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  }
+}
